@@ -1,0 +1,1 @@
+# Image-greyscaling-and-calculating-equalibriam-with-open-cv
